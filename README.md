@@ -6,7 +6,7 @@
 
 -  **Projects:** Back-end Development, Self-playing Bass Guitar 🎸
 -  **Languages :** Python, Java, C
--  **Frameworks: ** Spring Boot, Dart, Flutter, PostGRES SQL
+-  **Frameworks**: Spring Boot, Dart, Flutter, PostGRES SQL
 -  **Organisation :** Hope College
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

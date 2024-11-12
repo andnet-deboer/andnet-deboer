@@ -5,7 +5,7 @@
 ### About
 I am a senior at Hope college pursuing dual degrees in Electrical Engineering and Computer Science
 
--  **Projects:** Back-end Development, Self-playing Bass Guitar 🎸
+-  **Projects:** Roadside App Self-playing Bass Guitar 🎸
 -  **Languages :** Python, Java, C
 -  **Frameworks**: Spring Boot, Dart, Flutter, PostGRES SQL
 -  **Organisation :** Hope College

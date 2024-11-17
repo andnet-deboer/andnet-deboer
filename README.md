@@ -13,6 +13,8 @@ I am a senior at Hope college pursuing dual degrees in Electrical Engineering an
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [//]: # "![github stats](https://github-readme-stats.vercel.app/api?username=andnet-deboer&show_icons=true)"
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andnet-deboer&layout=compact&langs_count=5)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andnet-deboer)
 
 [//]: # "---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
 

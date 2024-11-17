@@ -7,7 +7,7 @@ I am a senior at Hope college pursuing dual degrees in Electrical Engineering an
 
 -  **Current Projects:** Roadside App | Self-playing Bass Guitar 🎸
 -  **Languages :** Python, Java
--  **Frameworks**: Spring Boot, Dart, Flutter, PostGRES SQL
+-  **Frameworks**: Spring Boot, Dart, Flutter, PostgreSQL
 -  **Organisation :** Hope College
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

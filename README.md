@@ -11,8 +11,6 @@ I am a senior at [Hope college](https://hope.edu/) pursuing dual degrees in Elec
 |--------------|-----------------------------|----------------------|
 | <br><em>_An exploration of robotics in live music_</em><br>- Building a robotic system to play bass guitar autonomously, blending robotics and live music.<br><br><b>Skills & Frameworks:</b><br>- Ubuntu<br>- Raspberry Pi<br>- Python | <br><em>_Streamlining roadside communications_</em><br>- A mobile application designed to improve real-time communication between drivers and roadside services.<br><br><b>Skills & Frameworks:</b><br>- Spring Boot<br>- Dart<br>- Flutter<br>- PostgreSQL | <br><em>_Analysis on the performance of CNN, KNN, and Logistic regression models on the CIFAR data set._</em><br>- Quantitative model performance comparison using confusion matrices, precision, accuracy, F1-score.<br><br><b>Skills & Frameworks:</b><br>- Python<br>- Jupyter Notebook<br>- Keras |
 
--  **Organisation :** Hope College
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [//]: # "![github stats](https://github-readme-stats.vercel.app/api?username=andnet-deboer&show_icons=true)"

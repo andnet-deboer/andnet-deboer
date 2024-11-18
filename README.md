@@ -14,8 +14,9 @@ I am a senior at [Hope college](https://hope.edu/) pursuing dual degrees in Elec
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [//]: # "![github stats](https://github-readme-stats.vercel.app/api?username=andnet-deboer&show_icons=true)"
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andnet-deboer&layout=compact&langs_count=5&hide_title=true&height=200)
 [//]: # "![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andnet-deboer&height=200)"
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andnet-deboer&layout=compact&langs_count=5&hide_title=true&height=200)
+
 
 
 [//]: # "---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"

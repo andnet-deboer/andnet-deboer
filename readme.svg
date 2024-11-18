@@ -1,48 +1,65 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <!-- Background -->
   <rect width="100%" height="100%" fill="#f3f4f6"/>
 
   <!-- Title -->
-  <text x="50" y="50" font-family="Arial" font-size="30" fill="black">Andnet DeBoer</text>
-
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/andnetdeboer/">
-    <rect x="50" y="100" width="200" height="50" fill="#1a73e8"/>
-    <text x="60" y="135" font-family="Arial" font-size="18" fill="white">LinkedIn</text>
-  </a>
-
-  <!-- Gmail Badge -->
-  <a href="mailto:deboerandnet@gmail.com">
-    <rect x="50" y="180" width="200" height="50" fill="#c14438"/>
-    <text x="60" y="215" font-family="Arial" font-size="18" fill="white">Email</text>
-  </a>
-
-  <!-- About Section -->
-  <text x="50" y="250" font-family="Arial" font-size="20" fill="black">About:</text>
-  <text x="50" y="280" font-family="Arial" font-size="16" fill="black">
-    I am a senior at <tspan fill="blue"><a href="https://hope.edu/">Hope College</a></tspan> pursuing dual degrees in Electrical Engineering and Computer Science.
-  </text>
-
-  <!-- Current Projects -->
-  <text x="50" y="320" font-family="Arial" font-size="20" fill="black">Current Projects:</text>
+  <text x="50" y="50" font-family="Arial" font-size="24" fill="black">Current Projects</text>
 
   <!-- Project 1 -->
   <a href="https://github.com/andnet-deboer/ENGS-451---Senior-Capstone-Project">
-    <text x="50" y="350" font-family="Arial" font-size="16" fill="blue">
-      Self-playing Bass Guitar 🎸: An exploration of robotics in live music
+    <text x="50" y="100" font-family="Arial" font-size="18" fill="blue">
+      Self-playing Bass Guitar 🎸
     </text>
   </a>
+  <text x="50" y="130" font-family="Arial" font-size="14" fill="black">
+    An exploration of robotics in live music
+  </text>
+  <text x="50" y="150" font-family="Arial" font-size="14" fill="black">
+    Building a robotic system to play bass guitar autonomously, combining robotics and live music.
+  </text>
+  <text x="50" y="180" font-family="Arial" font-size="14" fill="black">
+    <tspan x="50" dy="1.5em">Skills & Frameworks:</tspan>
+    <tspan x="50" dy="1.5em">• Ubuntu</tspan>
+    <tspan x="50" dy="1.5em">• Raspberry Pi</tspan>
+    <tspan x="50" dy="1.5em">• Python</tspan>
+  </text>
 
   <!-- Project 2 -->
   <a href="https://github.com/RoadsideApp">
-    <text x="50" y="380" font-family="Arial" font-size="16" fill="blue">
-      Roadside App 🚚: Streamlining roadside communications
+    <text x="50" y="230" font-family="Arial" font-size="18" fill="blue">
+      Roadside App 🚚
     </text>
   </a>
+  <text x="50" y="260" font-family="Arial" font-size="14" fill="black">
+    Streamlining roadside communications
+  </text>
+  <text x="50" y="280" font-family="Arial" font-size="14" fill="black">
+    A mobile application designed to improve real-time communication between drivers and roadside services.
+  </text>
+  <text x="50" y="310" font-family="Arial" font-size="14" fill="black">
+    <tspan x="50" dy="1.5em">Skills & Frameworks:</tspan>
+    <tspan x="50" dy="1.5em">• Spring Boot</tspan>
+    <tspan x="50" dy="1.5em">• Dart</tspan>
+    <tspan x="50" dy="1.5em">• Flutter</tspan>
+    <tspan x="50" dy="1.5em">• PostgreSQL</tspan>
+  </text>
 
   <!-- Project 3 -->
   <a href="https://github.com/michaelstag/395-Project-Final">
-    <text x="50" y="410" font-family="Arial" font-size="16" fill="blue">
-      Computer Vision 💻: Performance of CNN, KNN, and Logistic regression models
+    <text x="50" y="360" font-family="Arial" font-size="18" fill="blue">
+      Computer Vision 💻
     </text>
   </a>
+  <text x="50" y="390" font-family="Arial" font-size="14" fill="black">
+    Analysis on the performance of CNN, KNN, and Logistic regression models on the CIFAR data set.
+  </text>
+  <text x="50" y="410" font-family="Arial" font-size="14" fill="black">
+    Quantitative model performance comparison using confusion matrices, precision, accuracy, F1-score.
+  </text>
+  <text x="50" y="440" font-family="Arial" font-size="14" fill="black">
+    <tspan x="50" dy="1.5em">Skills & Frameworks:</tspan>
+    <tspan x="50" dy="1.5em">• Python</tspan>
+    <tspan x="50" dy="1.5em">• Jupyter Notebook</tspan>
+    <tspan x="50" dy="1.5em">• Keras</tspan>
+  </text>
 </svg>

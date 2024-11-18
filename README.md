@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-deboerandnet@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deboerandnet@gmail.com)](mailto:deboerandnet@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
-I am a senior at Hope college pursuing dual degrees in Electrical Engineering and Computer Science
+I am a senior at [Hope college](https://hope.edu/) pursuing dual degrees in Electrical Engineering and Computer Science
 
 ### Current Projects
 

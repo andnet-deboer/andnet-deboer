@@ -7,7 +7,7 @@ I am a senior at [Hope college](https://hope.edu/) pursuing dual degrees in Elec
 
 ### Current Projects
 
-| **[Computer Vision 🧿](https://github.com/michaelstag/395-Project-Final)**  | **[Self-playing Bass Guitar 🎸](https://github.com/andnet-deboer/ENGS-451---Senior-Capstone-Project)** | **[Roadside App 🚚](https://github.com/RoadsideApp)**  |
+| **[Computer Vision 🧿🧿](https://github.com/michaelstag/395-Project-Final)**  | **[Self-playing Bass Guitar 🎸](https://github.com/andnet-deboer/ENGS-451---Senior-Capstone-Project)** | **[Roadside App 🚚](https://github.com/RoadsideApp)**  |
 |----------------------|--------------|-----------------------------|
 | <br><em>_Analysis on the performance of CNN, KNN, and Logistic regression models on the CIFAR data set._</em><br> Quantitative model performance comparison using confusion matrices, precision, accuracy, F1-score.<br><br><b>Skills & Frameworks:</b><br> * Python<br> * Jupyter Notebook<br> * Keras | <br><em>_An exploration of robotics in live music_</em><br>Building a robotic system to play bass guitar autonomously, combining robotics and live music.<br><br><b>Skills & Frameworks:</b><br> * Ubuntu<br> * Raspberry Pi<br> * Python | <br><em>_Streamlining roadside communications_</em><br>A mobile application designed to improve real-time communication between drivers and roadside services.<br><br><b>Skills & Frameworks:</b><br> * Springboot<br> * Dart<br> * Flutter<br> * PostgreSQL |
 

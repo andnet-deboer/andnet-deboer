@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-deboerandnet@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deboerandnet@gmail.com)](mailto:deboerandnet@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
-I am current masters student at [Northwestern](https://northwestern.edu/) studying robotics with particular interest in mobile manipulation. I have a backround in Eectrical Engineering and Computer Science with a dual bachelors degree from Hope College.
+I am current masters student at [Northwestern](https://northwestern.edu/) studying robotics with particular interest in mobile manipulation. I have a background in Eectrical Engineering and Computer Science with a dual bachelors degree from Hope College.
 
 ### Current Projects
 

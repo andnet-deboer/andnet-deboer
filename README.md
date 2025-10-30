@@ -17,7 +17,7 @@ I am current masters student at [Northwestern](https://northwestern.edu/) studyi
 
 [//]: # "![github stats](https://github-readme-stats.vercel.app/api?username=andnet-deboer&show_icons=true)"
 [//]: # "![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andnet-deboer&height=200)"
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andnet-deboer&layout=compact&langs_count=5&hide_title=true&height=200)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andnet-deboer&layout=compact&langs_count=5&hide_title=true&height=200)-->
 
 
 

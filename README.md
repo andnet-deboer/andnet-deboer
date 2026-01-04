@@ -1,7 +1,5 @@
 ### Andnet DeBoer
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FFFFFF?style=flat-square&logoColor=000000)](https://andnet-deboer.github.io/)
-
-
 [![Static Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andnetdeboer/)](https://www.linkedin.com/in/andnetdeboer/)
 [![Gmail Badge](https://img.shields.io/badge/-deboerandnet@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deboerandnet@gmail.com)](mailto:deboerandnet@gmail.com)
 

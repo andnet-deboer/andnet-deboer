@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
-I am a full-stack roboticist and graduate student at [Northwestern University](https://northwestern.edu/) with particular interest in mobile manipulation. I have a background in Electrical Engineering and Computer Science with a dual bachelors degree from Hope College.
+I am a full-stack roboticist and graduate student at [Northwestern University](https://northwestern.edu/) with particular interest in mobile manipulation, imitation learning, and tactile sensing. Currently building custom teleop and policy learning systems for mobile manipulation.
 
 <!--
 ### Current Projects

@@ -7,8 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
-I am a full-stack roboticist and graduate student at [Northwestern University](https://northwestern.edu/) with particular interest in mobile manipulation, imitation learning, and mulitmodal sensing. Currently building custom teleop and policy learning systems for mobile manipulation and bimanual manipulation for deformable materials.
-
+I am a full-stack roboticist and graduate student at [Northwestern University](https://northwestern.edu/) with particular interest in compliance, manipulatoin, and control across embodiements.
 <!--
 ### Current Projects
 

@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
-I am a full-stack roboticist and graduate student at [Northwestern University](https://northwestern.edu/) with particular interest in compliance, manipulatoin, and control across embodiements.
+I am a full-stack roboticist and graduate student at [Northwestern University](https://northwestern.edu/) with particular interest in compliant manipulation.
 <!--
 ### Current Projects
 
